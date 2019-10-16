@@ -235,6 +235,10 @@ message(s)</source>
         <source>Deleting conversation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin Chat on Sailorgram</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DialogNotificationSwitch</name>

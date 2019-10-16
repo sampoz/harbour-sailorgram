@@ -44,4 +44,10 @@ ContextMenu
             remorseAction(remorsetitle, function() { context.dialogs.removeDialog(model.index) ; });
         }
     }
+
+    MenuItem
+    {
+        text: qsTr("Pin Chat on Sailorgram")
+        onClicked: function() { qInfo("Click on pin chat") ; };
+    }
 }
